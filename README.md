@@ -23,7 +23,7 @@ This project provides a comprehensive analysis of Amazon's sales performance usi
 ---
 
 ### Dataset Description
-- **Source:** Amazon sales data (details anonymized for confidentiality).
+- **Source:** Amazon sales data.
 - **Preparation Steps:**
   - Data was cleaned by handling missing values, removing duplicates, and ensuring consistency.
   - Appropriate data types were set for all columns for efficient querying.
