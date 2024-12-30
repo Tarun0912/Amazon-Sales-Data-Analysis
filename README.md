@@ -13,8 +13,7 @@ To analyze Amazon sales data using SQL and extract actionable insights to drive 
 3. [SQL Techniques Used](#sql-techniques-used)
 4. [Key Findings](#key-findings)
 5. [Recommendations](#recommendations)
-6. [How to Use This Project](#how-to-use-this-project)
-7. [Conclusion](#conclusion)
+6. [Conclusion](#conclusion)
 
 ---
 
@@ -70,7 +69,5 @@ This analysis employs advanced SQL techniques, including:
 
 ---
 
-### How to Use This Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Amazon-Sales-Analysis.git
+### Conclusion
+The Amazon Sales Analysis project highlights the importance of understanding sales trends, customer behaviors, and product performance. These insights can guide Amazon and similar businesses in optimizing strategies for growth and customer satisfaction.
